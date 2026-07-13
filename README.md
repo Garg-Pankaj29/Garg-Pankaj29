@@ -66,7 +66,7 @@ Every line of code is an attempt to bring order to chaos, yet the deeper I go, t
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
-### My contribution ecosystem.
+### 🌱 My contribution ecosystem
 
 <picture>
   <source
